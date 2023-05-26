@@ -1,0 +1,6 @@
+commands
+push add
+pull
+status
+merge
+hello world
